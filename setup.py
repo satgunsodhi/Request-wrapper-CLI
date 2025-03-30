@@ -4,7 +4,7 @@ setup(
     name="requester",
     version="1.0",
     packages=find_packages(),
-    install_requires=[],
+    install_requires=["requests", "argparse", "requests", "urllib"],
     entry_points={
         "console_scripts": [
             "requester = cli:main",
