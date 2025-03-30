@@ -4,10 +4,10 @@ setup(
     name="requester",
     version="1.0",
     packages=find_packages(),
-    install_requires=["requests", "argparse", "requests", "urllib"],
+    install_requires=["requests"],
     entry_points={
         "console_scripts": [
-            "requester = cli:main",
+            "requester = requester.cli:main",
         ],
     },
     author="Satgun Sodhi",
