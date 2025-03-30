@@ -7,7 +7,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "requester-cli = cli:main",
+            "requester = cli:main",
         ],
     },
     author="Satgun Sodhi",

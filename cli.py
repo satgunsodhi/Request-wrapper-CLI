@@ -88,6 +88,3 @@ def main():
             saveFile(response)
         except requests.exceptions.RequestException:
             print("An error occured! {e}")
-
-if __name__ == "__main__":
-    main()
