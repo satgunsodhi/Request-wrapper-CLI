@@ -1,5 +1,23 @@
 {
-    "name":"Smart Watch 2",
-    "price": "299.99",
-    "image": "example.com/image1"
+    "success": true,
+    "data": [
+        {
+            "_id": "67bef532cfc72192d646e423",
+            "name": "iPhone XR and AirPods",
+            "price": 1299.99,
+            "image": "https://images.unsplash.com/photo-1576087317272-798fb5cb70b5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "createdAt": "2025-02-26T11:04:18.927Z",
+            "updatedAt": "2025-02-26T11:16:28.052Z",
+            "__v": 0
+        },
+        {
+            "_id": "67cd6ec5a8438d29f689a659",
+            "name": "iPhone XR",
+            "price": 799.99,
+            "image": "https://images.unsplash.com/photo-1560699980-9dee78d1e874?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "createdAt": "2025-03-09T10:34:45.328Z",
+            "updatedAt": "2025-03-09T10:34:45.328Z",
+            "__v": 0
+        }
+    ]
 }
