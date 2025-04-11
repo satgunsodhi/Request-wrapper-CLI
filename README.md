@@ -1,7 +1,3 @@
-﻿# Request-wrapper-CLI
-
-(For ACM, AI Task here: https://github.com/satgunsodhi/Image-Color-Classifier)
-
 # Requester CLI
 
 A simple command-line interface for making HTTP requests. Requester CLI allows you to easily perform GET, POST, PUT, and DELETE requests and save responses to files.
